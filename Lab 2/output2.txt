@@ -1,0 +1,6 @@
+Mismatch type
+Error :45.4 at 6 
+Error :syntax error at 7 
+Name	Size	Type	LineNo.	Scope.	Value
+x	4	3	3	1	3.4
+y	4	2	4	1	~
